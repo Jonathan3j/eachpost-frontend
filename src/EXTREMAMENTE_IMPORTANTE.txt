@@ -1,0 +1,30 @@
+https://youtu.be/zT62eVxShsY
+
+SEMPRE COLOQUE O JS DENTRO DA FUNÇÃO QUE IRÁ GERAR O COMPONENTE
+
+npm install --save-dev @fortawesome/fontawesome-free ------> para tentar usar o font awesome 5
+
+SEMPRE USAR NOMES DE CLASSE QUE COMECEM COM MAIÚSCULAS
+
+QUANDO BAIXAR O PROJETO DO GITHUB, VÁ ATÉ A PASTA FRONTEND E EXECUTE NO TERMINAL O SEGUITE COMANDO: npm install
+
+
+
+http://rafaelcouto.com.br/validando-formularios-com-javascript/
+
+https://www.devmedia.com.br/html5-validator-validando-formularios-com-html5/28785
+
+https://codeburst.io/leveraging-html5-form-validation-validation-ui-in-react-validate-forms-in-2-mins-2228024ff50d
+
+https://desenvolvimentoparaweb.com/ux/ux-validacao-formularios-html-css/
+
+para usar o react-router temos que importar o useEffect do react para em seguida encapsular todo nosso 
+código javascript dentro dessa função. Para isso chamamos useEffect dentro da nossa função que irá gerar o 
+componente, e dentro dela escrevemos todo o JS. PS: isso para o caso de se estar usando uma FUNÇÃO para construir
+o componente
+
+caso estejamos usando uma classe ao invés de uma função para construir o componente, importamos "component" de 
+React, e dentro da nossa classe usamos componentDidMount(){ }, e dentro dessa função escrevemos nosso código JS;
+
+dúvidas sobre pegar os dados do backend e usar no fronte end, basta olhar a videoaula da semana omnistack 9.0
+sobre a construção da interface web a partir de 45:00
